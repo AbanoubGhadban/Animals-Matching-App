@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Animals Matching</string>
+    <string name="level_0">Level 0</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_4">Level 4</string>
+    <string name="level_5">Level 5</string>
+    <string name="level_6">Level 6</string>
+    <string name="game_name">Match Animals</string>
+
+    <string-array name="animals">
+        <item>camel</item>
+        <item>dog</item>
+        <item>dolphin</item>
+        <item>fox</item>
+        <item>koala</item>
+        <item>lion</item>
+        <item>monkey</item>
+        <item>rabbit</item>
+        <item>sheep</item>
+        <item>tiger</item>
+        <item>turtle</item>
+        <item>wolf</item>
+        <item>zebra</item>
+    </string-array>
+</resources>
